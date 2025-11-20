@@ -1,0 +1,6 @@
+jupyterlab
+duckdb
+psycopg2-binary
+pandas
+pyarrow
+numpy
